@@ -4,7 +4,7 @@
 信号機と車の3DCGアニメーション  
 
 
-**Version:** 1.0.0
+**Version:** 1.0.0  
 **Creation Date:** 2023年2月  
 **Programming Language:** C++   
 **Library:** OpenGL  
