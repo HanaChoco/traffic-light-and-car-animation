@@ -11,13 +11,11 @@
 
 ## Demo
 
-https://github.com/user-attachments/assets/3e090116-d265-4027-ae54-d73e91ef75c5
-
 
 ## Overview
 
 ### Usage
-- **右クリックk:**歩行者側の信号の色が変化  
+- **右クリックk:** 歩行者側の信号の色が変化  
 - **左クリック:** 信号に応じて車が進む  
 
 
