@@ -1,11 +1,12 @@
 # Traffic Light and Car Animation
 
 
-🚥🚙信号機と車の3DCGアニメーション (version1.0.0)
+🚥🚙信号機と車の3DCGアニメーション
 
 
 ## information
 
+**Version:** 1.0.0
 **Creation Date:** 2023年2月  
 **Programming Language:** C++   
 **Library:** OpenGL  
