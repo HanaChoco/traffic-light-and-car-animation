@@ -4,12 +4,17 @@
 信号機と車の3DCGアニメーション (version1.0.0)
 
 
+
 **Creation Date:** 2023年2月  
 **Programming Language:** C++   
 **Library:** OpenGL  
 
 
+
 ## Demo
+
+https://github.com/user-attachments/assets/030ad03e-a640-4bf8-ad1a-4fa22828f196
+
 
 
 ## Overview
@@ -17,6 +22,8 @@
 ### Usage
 - **右クリックk:** 歩行者側の信号の色が変化  
 - **左クリック:** 信号に応じて車が進む  
+
+
 
 
 ### Point
